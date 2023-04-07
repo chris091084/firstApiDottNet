@@ -9,7 +9,5 @@ namespace WebApi.Models
         {
         }
         public DbSet<Course> Courses { get; set; }
-     
-    
     }
 }

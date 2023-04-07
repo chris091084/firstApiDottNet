@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ccoley\\OneDrive - Steel Projects\\Bureau\\apprend C#\\WebApi\\WebApi.csproj": {}
+    "C:\\Dev\\firstApiDottNet\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ccoley\\OneDrive - Steel Projects\\Bureau\\apprend C#\\WebApi\\WebApi.csproj": {
+    "C:\\Dev\\firstApiDottNet\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccoley\\OneDrive - Steel Projects\\Bureau\\apprend C#\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Dev\\firstApiDottNet\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\ccoley\\OneDrive - Steel Projects\\Bureau\\apprend C#\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Dev\\firstApiDottNet\\WebApi.csproj",
         "packagesPath": "C:\\Users\\ccoley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccoley\\OneDrive - Steel Projects\\Bureau\\apprend C#\\WebApi\\obj\\",
+        "outputPath": "C:\\Dev\\firstApiDottNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ccoley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
